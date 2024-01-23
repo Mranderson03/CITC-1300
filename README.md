@@ -1,5 +1,5 @@
 # 1300 project michael
 
 <ul>
-    <li><a href="Seizure Awareness/index.html" target="_blank">Seizure Awareness</a><li>
+    <li><a href="Seizure_Awareness/index.html" target="blank">Seizure Awareness</li>
 </ul>
